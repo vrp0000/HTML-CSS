@@ -1,21 +1,22 @@
-# CSS ~ Deep DIVE
+# CSS ~ Deep DIVE ~ Using Media Queries
 Preview of the Pages :  
 
 ## Page 1  
 
-![image](https://user-images.githubusercontent.com/31111431/122618066-1b3e8800-d0ab-11eb-9843-0c49d86aad39.png)
+![image](https://user-images.githubusercontent.com/31111431/123681458-7fa9d600-d867-11eb-9fba-f40280566efe.png)
 
 
 ## Page 2  
 
-![image](https://user-images.githubusercontent.com/31111431/122617991-fb0ec900-d0aa-11eb-832f-86868d959f12.png)
+![image](https://user-images.githubusercontent.com/31111431/123681411-6b65d900-d867-11eb-8b37-03baff1cf923.png)
 
 
 ## Page 3  
 
-![image](https://user-images.githubusercontent.com/31111431/122617921-d581bf80-d0aa-11eb-8f38-7675364d9091.png)
+![image](https://user-images.githubusercontent.com/31111431/123681318-50936480-d867-11eb-945a-54e0c93bf8ed.png)
 
 
 ## Page 4
 
-![image](https://user-images.githubusercontent.com/31111431/122617875-b8e58780-d0aa-11eb-8b88-f67998854ce7.png)
+![image](https://user-images.githubusercontent.com/31111431/123681244-36598680-d867-11eb-9d35-fdada5e2b909.png)
+
