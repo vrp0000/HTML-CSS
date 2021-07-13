@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+    <title>Todo App</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div class="left-hdr">
+          <div><span class="hdr1-bld">Tasks</span></div>
+          <div><span class="hdr1-nrml spaced">Lists</span></div>
+        </div>
+        <div class="right-hdr">
+          <div class="spaced">
+            <button class="btn">+</button>
+          </div>
+          <div class="spaced hdr-left-small">Add List</div>
+        </div>
+      </div>
+      <div class="content"></div>
+    </div>
+    <div class="category-popup">
+      <div class="category-popupinfo">Add New List</div>
+      <div><input type="text" class="category-popuptextbox" /></div>
+      <div
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-evenly;
+          width: 100%;
+        "
+      >
+        <div><button class="category-popupadd">ADD</button></div>
+        <div><button class="category-popupclose">Close</button></div>
+      </div>
+    </div>
+
+    <div class="subTask-popup">
+      <div class="subTask-popupinfo">Add New Item</div>
+      <div><input type="text" class="subTask-popuptextbox" /></div>
+      <div
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-evenly;
+          width: 100%;
+        "
+      >
+        <div><button class="subTask-popupadd">ADD</button></div>
+        <div><button class="subTask-popupclose">Close</button></div>
+      </div>
+    </div>
+
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+    <script src="index.js"></script>
+  </body>
+</html>
